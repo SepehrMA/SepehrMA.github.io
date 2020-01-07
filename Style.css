@@ -1,0 +1,12 @@
+body, html {
+background-color: lightblue;
+} 
+
+h1 {
+    color: olivedrab
+}
+
+.main {
+    padding-left: 10vw;
+    padding-top: 35vh;
+}
